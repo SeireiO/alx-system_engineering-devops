@@ -1,1 +1,1 @@
-Shell I/O redirections and filters
+first script prints a line that says "Hello, World"
