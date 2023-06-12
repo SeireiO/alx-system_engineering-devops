@@ -1,1 +1,2 @@
-first script prints a line that says "Hello, World"
+
+0x02. Shell, I/O Redirections and filters
